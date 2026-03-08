@@ -1,0 +1,5 @@
+{
+  "name": "Morning Digest",
+  "description": "A daily morning digest PWA with weather, meals, calendar, family reminders, and news.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
